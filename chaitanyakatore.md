@@ -12,8 +12,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/chaitanyakatore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chaitanyakatore" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/chaitanya-katore-87964921b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/chaitanya-katore-87964921b" height="30" width="40" /></a>
-<a href="https://kaggle.com/chaitanya katore582" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chaitanya katore582" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chaitanya-katore-87964921b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaitanya katore" height="30" width="40" /></a>
+<a href="https://kaggle.com/chaitanyakatore582" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chaitanyakatore582" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/chaitanyakatore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chaitanyakatore" height="30" width="40" /></a>
 </p>
 
